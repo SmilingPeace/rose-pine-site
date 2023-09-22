@@ -1,0 +1,27 @@
+---
+title: Eine Übersetzung hinzufügen
+description: Leitfaden für Übersetzer.
+priority: 98
+---
+
+## Deine Entwicklungsumgebung einrichten
+
+> Du kannst alle Änderungen direkt auf GitHub vornehmen
+
+1. Forke und clone die [Rosé Pine Website](https://github.com/rose-pine/rose-pine-site).
+2. Installiere [node](https://nodejs.org) und [pnpm](https://pnpm.io/installation).
+3. Installiere innerhalb des Verzeichnisses der Website die Abhängigkeiten und starten Sie den lokalen Entwicklungsserver:
+   ```sh
+   pnpm install && pnpm dev
+   ```
+4. Navigiere zu [http://localhost:4321](http://localhost:4321), um die Echtzeit-Aktualisierungen zu sehen.
+
+### Dokumentation übersetzen
+
+1. Erstelle eine neue Seite innerhalb von `src/content/{locale}/`
+2. Nutze die englische Übersetzung oder eine andere Sprache, mit der du vertraut bist, z.B. `src/content/en/create-a-theme.md`.
+
+### Seitenauszüge übersetzen
+
+1. Erstelle eine neue Sprach-Datei innerhalb von `src/locales/{locale}.json`.
+2. Nutze die englische Übersetzung oder eine andere Sprache, mit der du vertraut bist, z.B. `src/locales/en.json`.
