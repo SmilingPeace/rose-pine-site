@@ -1,0 +1,22 @@
+---
+title: Erstelle ein Theme
+description: Leitfaden für Designer.
+priority: 99
+---
+
+## Offizielle Repositories
+
+Wir lieben und begrüßen alle Themes von allen. Um deine Kreation in die Rosé Pine Organisation hinzuzufügen, bitten wir dich, dass dein Theme unsere 
+[Farbpaletten Einstellungen](/palette) folgt und dein Repository unsere [Vorlage](https://github.com/rose-pine/rose-pine-template) befolgt.
+
+1. Verwende die [Rosé Pine Vorlage](https://github.com/rose-pine/rose-pine-template) als Basis für dein neues Repository.
+2. Erstelle dein Thema mit dem offiziellen [build tool](https://github.com/rose-pine/build), wenn möglich, um alle drei Varianten des Themes hinzuzufügen.
+3. Reiche dein Theme durch [create a issue] ein und wir laden dich zur Organisation ein.
+
+## Community Repositorien
+
+Wenn du dich an die [Rosé Pine-Palette](/Palette/Zutaten) hältst, müssen Community
+Themen nicht verpflichtend, die von uns empfohlenen Farbverwendungen befolgen.
+
+1. Aktualisiere deine Farben, damit sie mit unserer [Palette](/palette/ingredients) übereinstimmen, optional unter Verwendung des [build tool](https://github.com/rose-pine/build).
+2. Füge dein Theme in die [Community Liste](https://github.com/rose-pine/rose-pine-site/blob/main/src/data/community-repos.json) ein, die auf der Rosé Pine-Website zu finden ist.
